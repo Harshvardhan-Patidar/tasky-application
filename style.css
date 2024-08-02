@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(255, 192, 203, 0.501) !important;
+}
+
+.add_new_btn_mobile_only{
+    position: fixed;
+}
+
+.navButton{
+    margin-right: 4px;
+}
