@@ -15,3 +15,7 @@ body{
 .navButton{
     margin-right: 4px;
 }
+
+input::placeholder{
+    font-family: 'Courier New', Courier, monospace;
+}
